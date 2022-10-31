@@ -1,0 +1,19 @@
+body{
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 22px;
+	font-family: helvetica, arial, sans-serif;
+}
+
+/* font: italic normal bold 16px/18px helvetica,arial, sans-serif; */
+
+/*next part*/
+
+body{
+	background-color: lightblue;
+	background-image: url(photosh.jpg); 
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
